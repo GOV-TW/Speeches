@@ -12,3 +12,4 @@
 # 參考資料
 
 - [THE TOP 100 SPEECHES](https://www.americanrhetoric.com/newtop100speeches.htm)
+- [EUSpeech speeches from EU leaders](https://dataverse.harvard.edu/dataverse/euspeech)
