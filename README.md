@@ -9,3 +9,6 @@
 目前知道的，維基百科有個維基文庫有紀錄部分的演講文稿
 
 
+# 參考資料
+
+- [THE TOP 100 SPEECHES](https://www.americanrhetoric.com/newtop100speeches.htm)
